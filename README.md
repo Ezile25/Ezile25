@@ -1,17 +1,4 @@
 <h1 align="center">Hi there👋, I'm Ezile Nyangule</h1>
-<h3 align="center">A passionate BCom Information Systems Graduate</h3>
-
-<h4>About me:</h4>
-
-My coding journey began in the first year of my studies, and ever since, I've been captivated by the world of technology. Proficient in languages such as C#, HTML, CSS, SQL, and Python, I am enthusiastic about learning and adapting to emerging technologies.
-
-<h4>Interests:</h4>
-
-Apart from my academic pursuits, I find solace in the world of novels, exploring diverse genres and authors. Balancing my tech-driven interests, I cherish spending quality time with friends, whether it's engaging in tech discussions, sipping coffee, or trying out new activities together.
-
-<h4>Collaborations:</h4>
-
-Open to exciting collaborations and learning opportunities, I'm just a message away. Whether you have a project idea or simply want to connect, don't hesitate to reach out.
 
 
 <h3 align="left">Connect with me:</h3>
