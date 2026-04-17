@@ -1,78 +1,53 @@
-<h1 align="center">Hi there👋, I'm Ezile Nyangule</h1>
+# Hi, I'm Ezile 👋
 
-<p align="center">
-BCom Honours Information Systems graduate with experience in IT systems, data analysis, and reporting.
-</p>
-
-<p align="center">
-I am passionate about using technology and data to solve problems, improve systems, and support business operations.
-</p>
+BCom Honours Information Systems graduate with experience in IT systems support, data analysis, and reporting in corporate environments.  
+I am passionate about using data and technology to solve real-world problems, improve systems, and support decision-making.
 
 ---
 
-<h3 align="left">🔧 Skills</h3>
-<p align="left">
-- Python, SQL, R (basic)  
-- Power BI, Excel (Advanced)  
-- Azure Active Directory (Azure AD), Microsoft 365  
-- ServiceNow, IT Support Systems  
-- Data Analysis & Reporting  
-</p>
+## 🔧 Skills
+- Python, SQL, R (basic)
+- Power BI, Excel (Advanced)
+- Azure Active Directory (Azure AD), Microsoft 365
+- ServiceNow, IT Support Systems
+- Data Analysis & Reporting
 
 ---
 
-<h3 align="left">📊 Projects</h3>
-<p align="left">
-- Stock Price Forecasting (Python, ARIMA, Monte Carlo Simulation)  
-- Data Analysis Dashboard (Power BI)  
-- SQL Data Exploration Projects  
-</p>
+## 📊 Projects
+
+### COVID-19 Happiness Analysis
+- Comparative analysis of happiness levels between developed and developing countries during COVID-19
+- Used Python, R, and machine learning models (Logistic Regression, Random Forest, Gradient Boosting)
+- Explored relationships between GDP, COVID-19 impact, and happiness scores
+- Key insight: stronger economies and social support systems were linked to higher happiness levels during the pandemic
+
+### Cyclistic Bike Share Analysis
+- Analyzed usage patterns between casual riders and annual members
+- Identified commuter vs leisure behavior trends
+- Provided business recommendations for marketing and station optimization
+- Tools: Python, R, Excel
+
+### Online Food Order Analysis
+- Explored customer demographics and online food ordering behavior
+- Performed data cleaning, EDA, and statistical analysis
+- Identified key trends in age, gender, and ordering patterns
+- Provided recommendations for improving customer engagement
 
 ---
 
-<h3 align="left">💼 Experience</h3>
-<p align="left">
-Information Security Intern – <b>Discovery Limited</b><br>
+## 💼 Experience
+Information Security Intern – :contentReference[oaicite:0]{index=0}  
 - Supported Microsoft 365 and Azure AD user access administration  
 - Managed service requests and incident tickets using ServiceNow  
 - Assisted with reporting, compliance checks, and system support processes  
 - Contributed to endpoint device onboarding and system health monitoring  
-</p>
 
 ---
 
-<h3 align="left">🌐 Languages and Tools:</h3>
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-</p>
-
----
-
-<h3 align="left">📈 GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ezile25&show_icons=true&layout=compact" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ezile25" />
-</p>
-
----
+## 📫 Contact
+Email: ezilenyangule@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ezile-nyangule-9722901ab
 
 <h3 align="left">📫 Contact</h3>
 
